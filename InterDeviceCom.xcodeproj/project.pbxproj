@@ -154,7 +154,7 @@
 		8AB2DDA0150E5D75007129DC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = ChalmersTH;
 			};
 			buildConfigurationList = 8AB2DDA3150E5D75007129DC /* Build configuration list for PBXProject "InterDeviceCom" */;
